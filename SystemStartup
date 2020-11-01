@@ -1,0 +1,5 @@
+System Startup: When the power button is first pressed the power supply sends current through the computer's circuitry that cause the processing chip to reset and find the firmware
+with the startup instructions from storage. Once this is done the computer will run some tests to ensure that all the internal components and connected peripheral devices are 
+properly functioning, if any are not then the computer will provide some form indication of this fact. Once this is done the device will find and run the 'Kernel' of the operating 
+system as well as any other commonly used instructions. Finally the memory of the device will take over and run the system configuration information and it is at this point,
+usually, that the OS will have the user provide their login information.
