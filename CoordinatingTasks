@@ -1,0 +1,3 @@
+Coordinating Tasks: Another of the necessary functions that an OS performs for a computer is the coordination of the various tasks that it is given by the user. If the device has
+a long serise of tasks then they will end up stored in a memory buffer where it will wait for the components to complete their current task before being executed. When multiple
+instructions line up in the buffer it is called a queue.
